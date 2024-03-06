@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="381.438" height="70" viewBox="0 0 381.438 70">
+  <text id="ARTOFCSE" transform="translate(67.438 57)" fill="#383d41" font-size="58" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">ARTOF</tspan><tspan y="0" fill="#0068c7">CSE</tspan></text>
+  <g id="Icon" transform="translate(-120 2.25)">
+    <path id="code" d="M25.518,16.217l-6.6,7.217-1.651-1.805,4.952-5.411L17.263,10.8,18.913,9Zm-17.716,0,4.954,5.411L11.1,23.433,4.5,16.217,11.1,9l1.651,1.8Z" transform="translate(134.834 10.127)" fill="#0068c7" stroke="#0068c7" stroke-width="4" fill-rule="evenodd"/>
+    <path id="Laptop" d="M58.727,52.928H5.933a2.933,2.933,0,1,1,0-5.866H58.727a2.933,2.933,0,0,1,0,5.866ZM11.8,11.866V35.33H52.861V11.866ZM11.8,6H52.861a5.866,5.866,0,0,1,5.866,5.866V35.33A5.866,5.866,0,0,1,52.861,41.2H11.8A5.866,5.866,0,0,1,5.933,35.33V11.866A5.866,5.866,0,0,1,11.8,6Z" transform="translate(117 2.564)" fill="#383d41"/>
+  </g>
+</svg>
